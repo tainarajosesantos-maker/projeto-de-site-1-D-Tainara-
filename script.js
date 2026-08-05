@@ -1,0 +1,19 @@
+margin: 0 auto;
+   border: 5px solid #30bd05;
+   padding: 16px;
+   display: flex;
+   }
+   background-color: rgb(8, 38, 189);
+   color: rgb(247, 245, 236);
+   text-align: center;
+   max-width: 800px;
+   margin: 0 auto;
+}
+.artigo-autor {
+   font-weight: bold;
+}
+main {
+   background-color: rgb(8, 67, 126);
+   color: rgb(234, 236, 253);
+   text-align: center;
+   max-width: 800px;
